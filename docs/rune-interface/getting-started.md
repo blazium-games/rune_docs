@@ -8,7 +8,7 @@ RUNE Interface is the graphical application for creating and editing R.U.N.E. â€
 
 ## Installation
 
-1. Download RUNE Interface from [itch.io](https://blaziumengine.itch.io/rune-interface)
+1. Download RUNE Interface from [itch.io](https://blaziumengine.itch.io/rune-interface) or [blazium.games](https://bioblaze.blazium.games/rune-interface).
 2. Extract the archive to your desired location
 3. Run the executable
 

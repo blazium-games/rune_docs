@@ -6,7 +6,7 @@ The documentation is built using [Docusaurus](https://docusaurus.io/), a modern 
 
 ## What is RUNE Interface?
 
-RUNE (Rapid Unified Node Editor) is a visual workflow editor that lets you build automation flows, data processing pipelines, and complex logic without writing traditional code. Instead of writing code line by line, you drag nodes onto a canvas, connect them together, and run your flow immediately.
+RUNE (Routing & Utility Node Editor) is a visual workflow editor that lets you build automation flows, data processing pipelines, and complex logic without writing traditional code. Instead of writing code line by line, you drag nodes onto a canvas, connect them together, and run your flow immediately.
 
 ## Documentation Structure
 
@@ -46,7 +46,7 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-The documentation is deployed to GitHub Pages at `https://blazium-engine.github.io/rune_docs/`
+The documentation is deployed to GitHub Pages at `https://blazium-games.github.io/rune_docs/`
 
 ## Contributing
 
@@ -116,6 +116,7 @@ Fixes #123
 
 ## Resources
 
-- **Download RUNE Interface**: [itch.io](https://blaziumengine.itch.io/rune-interface)
-- **Project Repository**: [holistic](https://github.com/blazium-engine/holistic)
-- **Built by**: Blazium Engine Contributors
+- [**RUNE Interface on itch.io**](https://blaziumengine.itch.io/rune-interface)
+- [**RUNE Interface on blazium.games**](https://bioblaze.blazium.games/rune-interface)
+
+**Built by** Blazium Engine Contributors

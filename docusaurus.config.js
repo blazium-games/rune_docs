@@ -20,14 +20,14 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://blazium-engine.github.io',
+  url: 'https://blazium-games.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/rune_docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'blazium-engine', // Usually your GitHub org/user name.
+  organizationName: 'blazium-games', // Usually your GitHub org/user name.
   projectName: 'rune_docs', // Usually your repo name.
   trailingSlash: false,
 
@@ -125,8 +125,12 @@ const config = {
             title: 'Resources',
             items: [
               {
-                label: 'Download RUNE Interface',
+                label: 'RUNE Interface on itch.io',
                 href: 'https://blaziumengine.itch.io/rune-interface',
+              },
+              {
+                label: 'RUNE Interface on blazium.games',
+                href: 'https://bioblaze.blazium.games/rune-interface',
               },
               {
                 label: 'Luau API Reference',
