@@ -6,7 +6,7 @@ sidebar_position: 14
 
 The Boolean Compare node compares boolean values.
 
-![Boolean Compare Node](https://placehold.co/600x400/EEE/31343C)
+![Boolean Compare Node](/img/nodes/boolean_compare.jpg "Boolean Compare Node")
 
 ## Description
 

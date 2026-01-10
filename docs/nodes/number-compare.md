@@ -6,7 +6,7 @@ sidebar_position: 13
 
 The Number Compare node compares two numeric values using various comparison operators.
 
-![Number Compare Node](https://placehold.co/600x400/EEE/31343C)
+![Number Compare Node](/img/nodes/number_compare.jpg "Number Compare Node")
 
 ## Description
 

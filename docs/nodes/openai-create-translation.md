@@ -6,7 +6,7 @@ sidebar_position: 23
 
 The Create Translation node translates audio files to English text using OpenAI's Whisper model.
 
-![Create Translation Node](https://placehold.co/600x400/EEE/31343C)
+![Create Translation Node](/img/nodes/create_translation.jpg "Create Translation Node")
 
 ## Description
 

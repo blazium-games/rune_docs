@@ -6,7 +6,7 @@ sidebar_position: 19
 
 The Hypot node calculates the hypotenuse of a right triangle given two sides.
 
-![Hypot Node](https://placehold.co/600x400/EEE/31343C)
+![Hypot Node](/img/nodes/hypot.jpg "Hypot Node")
 
 ## Description
 

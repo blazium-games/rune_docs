@@ -6,7 +6,7 @@ sidebar_position: 47
 
 The Ini To String node converts INI data to a string representation.
 
-![Ini To String Node](https://placehold.co/600x400/EEE/31343C)
+![INI to String Node](/img/nodes/ini_to_string.jpg "INI to String Node")
 
 ## Description
 

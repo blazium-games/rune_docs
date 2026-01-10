@@ -6,7 +6,7 @@ sidebar_position: 16
 
 The Create Completion (Async) node initiates an asynchronous completion request. The response is handled in the background and can be retrieved later.
 
-![Create Completion (Async) Node](https://placehold.co/600x400/EEE/31343C)
+![Create Completion (Async) Node](/img/nodes/create_completion_async.jpg "Create Completion (Async) Node")
 
 ## Description
 

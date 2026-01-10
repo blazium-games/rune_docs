@@ -6,7 +6,7 @@ sidebar_position: 9
 
 The Pow node raises a base number to the power of an exponent.
 
-![Pow Node](https://placehold.co/600x400/EEE/31343C)
+![Pow Node](/img/nodes/pow.jpg "Pow Node")
 
 ## Description
 

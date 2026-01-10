@@ -6,7 +6,7 @@ sidebar_position: 11
 
 The Floor node rounds a number down to the nearest integer.
 
-![Floor Node](https://placehold.co/600x400/EEE/31343C)
+![Floor Node](/img/nodes/floor.jpg "Floor Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Divide node performs division of two numbers.
 
-![Divide Node](https://placehold.co/600x400/EEE/31343C)
+![Divide Node](/img/nodes/divide.jpg "Divide Node")
 
 ## Description
 

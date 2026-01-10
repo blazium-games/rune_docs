@@ -6,7 +6,7 @@ sidebar_position: 49
 
 The Load Csv File node reads and parses a CSV file from the flow directory.
 
-![Load Csv File Node](https://placehold.co/600x400/EEE/31343C)
+![Load CSV File Node](/img/nodes/load_csv_file.jpg "Load CSV File Node")
 
 ## Description
 

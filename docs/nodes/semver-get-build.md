@@ -6,7 +6,7 @@ sidebar_position: 8
 
 The Get Build node extracts the build metadata from a semantic version string.
 
-![Get Build Node](https://placehold.co/600x400/EEE/31343C)
+![Get Build Node](/img/nodes/get_build.jpg "Get Build Node")
 
 ## Description
 

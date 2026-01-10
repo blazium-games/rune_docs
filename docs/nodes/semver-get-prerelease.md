@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The Get Prerelease node extracts the prerelease identifier from a semantic version string.
 
-![Get Prerelease Node](https://placehold.co/600x400/EEE/31343C)
+![Get Prerelease Node](/img/nodes/get_prerelease.jpg "Get Prerelease Node")
 
 ## Description
 

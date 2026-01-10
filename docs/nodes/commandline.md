@@ -6,7 +6,7 @@ sidebar_position: 31
 
 The Commandline node executes a shell command and captures the output.
 
-![Commandline Node](https://placehold.co/600x400/EEE/31343C)
+![Commandline Node](/img/nodes/commandline.jpg "Commandline Node")
 
 ## Description
 

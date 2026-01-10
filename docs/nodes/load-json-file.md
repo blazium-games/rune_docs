@@ -6,7 +6,7 @@ sidebar_position: 21
 
 The Load Json File node reads and parses a JSON file from the flow directory.
 
-![Load Json File Node](https://placehold.co/600x400/EEE/31343C)
+![Load JSON File Node](/img/nodes/load_json_file.jpg "Load JSON File Node")
 
 ## Description
 

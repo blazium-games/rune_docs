@@ -6,7 +6,7 @@ sidebar_position: 11
 
 The Git Submodule Sync node synchronizes submodule URLs with the parent repository configuration.
 
-![Git Submodule Sync Node](https://placehold.co/600x400/EEE/31343C)
+![Git Submodule Sync Node](/img/nodes/git_submodule_sync.jpg "Git Submodule Sync Node")
 
 ## Description
 

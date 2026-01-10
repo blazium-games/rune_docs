@@ -6,7 +6,7 @@ sidebar_position: 28
 
 The Retrieve File node retrieves metadata about a specific file uploaded to OpenAI.
 
-![Retrieve File Node](https://placehold.co/600x400/EEE/31343C)
+![Retrieve File Node](/img/nodes/retrieve_file.jpg "Retrieve File Node")
 
 ## Description
 

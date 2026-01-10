@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The Specific Char node extracts a single character from a string at a specified index position.
 
-![Specific Char Node](https://placehold.co/600x400/EEE/31343C)
+![Specific Char Node](/img/nodes/specific_char.jpg "Specific Char Node")
 
 ## Description
 

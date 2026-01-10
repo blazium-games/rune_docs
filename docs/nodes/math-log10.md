@@ -6,7 +6,7 @@ sidebar_position: 16
 
 The Log10 node calculates the base-10 logarithm of a number.
 
-![Log10 Node](https://placehold.co/600x400/EEE/31343C)
+![Log10 Node](/img/nodes/log_10.jpg "Log10 Node")
 
 ## Description
 

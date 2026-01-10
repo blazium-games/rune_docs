@@ -6,7 +6,7 @@ sidebar_position: 18
 
 The DateTime Compare ISO node compares ISO 8601 date-time strings.
 
-![DateTime Compare ISO Node](https://placehold.co/600x400/EEE/31343C)
+![DateTime Compare ISO Node](/img/nodes/datetime_compare_iso.jpg "DateTime Compare ISO Node")
 
 ## Description
 

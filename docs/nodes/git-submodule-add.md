@@ -6,7 +6,7 @@ sidebar_position: 9
 
 The Git Submodule Add node adds a Git submodule to the repository.
 
-![Git Submodule Add Node](https://placehold.co/600x400/EEE/31343C)
+![Git Submodule Add Node](/img/nodes/git_submodule_add.jpg "Git Submodule Add Node")
 
 ## Description
 

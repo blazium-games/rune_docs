@@ -6,7 +6,7 @@ sidebar_position: 52
 
 The Csv To String node converts CSV data to a string representation.
 
-![Csv To String Node](https://placehold.co/600x400/EEE/31343C)
+![CSV to String](/img/nodes/csv_to_string.jpg "CSV to String Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 8
 
 The Git Clone node clones a remote repository to a local path.
 
-![Git Clone Node](https://placehold.co/600x400/EEE/31343C)
+![Git Clone Node](/img/nodes/git_clone.jpg "Git Clone Node")
 
 ## Description
 

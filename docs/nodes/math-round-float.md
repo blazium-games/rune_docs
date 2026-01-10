@@ -6,7 +6,7 @@ sidebar_position: 13
 
 The Round (Float) node rounds a floating-point number to the nearest integer, keeping it as a float.
 
-![Round (Float) Node](https://placehold.co/600x400/EEE/31343C)
+![Round (Float) Node](/img/nodes/round_float.jpg "Round (Float) Node")
 
 ## Description
 

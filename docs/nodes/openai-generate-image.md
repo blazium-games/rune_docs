@@ -6,7 +6,7 @@ sidebar_position: 17
 
 The Generate Image node creates an image using OpenAI's DALL-E image generation models based on a text prompt.
 
-![Generate Image Node](https://placehold.co/600x400/EEE/31343C)
+![Generate Image Node](/img/nodes/generate_image.jpg "Generate Image Node")
 
 ## Description
 

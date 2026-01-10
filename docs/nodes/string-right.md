@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The Right node extracts a specified number of characters from the right (end) of a string.
 
-![Right Node](https://placehold.co/600x400/EEE/31343C)
+![Right Node](/img/nodes/right.jpg "Right Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The Abs (Float) node returns the absolute value of a floating-point number.
 
-![Abs (Float) Node](https://placehold.co/600x400/EEE/31343C)
+![Abs (Float) Node](/img/nodes/abs_float.jpg "Abs (Float) Node")
 
 ## Description
 

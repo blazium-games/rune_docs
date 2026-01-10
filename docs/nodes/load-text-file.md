@@ -6,7 +6,7 @@ sidebar_position: 19
 
 The Load Text File node reads the contents of a text file from the flow directory.
 
-![Load Text File Node](https://placehold.co/600x400/EEE/31343C)
+![Load Text File Node](/img/nodes/load_text_file.jpg "Load Text File Node")
 
 ## Description
 

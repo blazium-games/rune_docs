@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Get Files In Folder node retrieves a list of all files in a specified directory.
 
-![Get Files In Folder Node](https://placehold.co/600x400/EEE/31343C)
+![Get Files in Folder Node](/img/nodes/get_files_in_folder.jpg "Get Files in Folder Node")
 
 ## Description
 

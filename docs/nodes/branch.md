@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Branch node controls execution flow based on a boolean condition. It routes execution to either the "True" or "False" output based on the condition value.
 
-![Branch Node](https://placehold.co/600x400/EEE/31343C)
+![Branch Node](/img/nodes/branch.jpg "Branch Node")
 
 ## Description
 

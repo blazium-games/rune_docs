@@ -6,7 +6,7 @@ sidebar_position: 17
 
 The DateTime Compare Unix node compares Unix timestamp values.
 
-![DateTime Compare Unix Node](https://placehold.co/600x400/EEE/31343C)
+![DateTime Compare Unix Node](/img/nodes/datetime_compare_unix.jpg "DateTime Compare Unix Node")
 
 ## Description
 

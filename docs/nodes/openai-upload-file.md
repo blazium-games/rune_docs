@@ -6,7 +6,7 @@ sidebar_position: 26
 
 The Upload File node uploads a file to OpenAI's servers for use with fine-tuning or other file-based operations.
 
-![Upload File Node](https://placehold.co/600x400/EEE/31343C)
+![Upload File Node](/img/nodes/upload_file.jpg "Upload File Node")
 
 ## Description
 

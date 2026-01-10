@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The String to Integer node converts a string value to an integer.
 
-![String to Integer Node](https://placehold.co/600x400/EEE/31343C)
+![String to Integer Node](/img/nodes/string_to_integer.jpg "String to Integer Node")
 
 ## Description
 

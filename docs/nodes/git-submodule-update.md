@@ -6,7 +6,7 @@ sidebar_position: 10
 
 The Git Submodule Update node updates submodules to their configured commit.
 
-![Git Submodule Update Node](https://placehold.co/600x400/EEE/31343C)
+![Git Submodule Update Node](/img/nodes/git_submodule_update.jpg "Git Submodule Update Node")
 
 ## Description
 

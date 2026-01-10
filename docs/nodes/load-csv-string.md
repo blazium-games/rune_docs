@@ -6,7 +6,7 @@ sidebar_position: 48
 
 The Load Csv String node parses a CSV string into structured data.
 
-![Load Csv String Node](https://placehold.co/600x400/EEE/31343C)
+![Load CSV String Node](/img/nodes/load_csv_string.jpg "Load CSV String Node")
 
 ## Description
 

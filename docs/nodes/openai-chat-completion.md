@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The Create Chat Completion node generates a chat completion using OpenAI's chat models (like GPT-3.5-turbo or GPT-4).
 
-![Create Chat Completion Node](https://placehold.co/600x400/EEE/31343C)
+![Create Chat Completion Node](/img/nodes/create_chat_completion.jpg "Create Chat Completion Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The SessionStateGet node retrieves a value from session state.
 
-![SessionStateGet Node](https://placehold.co/600x400/EEE/31343C)
+![SessionStateGet Node](/img/nodes/session_state_get.jpg "SessionStateGet Node")
 
 ## Description
 

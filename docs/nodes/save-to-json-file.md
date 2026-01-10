@@ -6,7 +6,7 @@ sidebar_position: 22
 
 The Save To Json File node writes JSON data to a file in the flow directory.
 
-![Save To Json File Node](https://placehold.co/600x400/EEE/31343C)
+![Save to JSON File Node](/img/nodes/save_to_json_file.jpg "Save to JSON File Node")
 
 ## Description
 

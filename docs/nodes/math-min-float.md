@@ -6,7 +6,7 @@ sidebar_position: 23
 
 The Min (Float) node returns the minimum of two floating-point values.
 
-![Min (Float) Node](https://placehold.co/600x400/EEE/31343C)
+![Min (Float) Node](/img/nodes/min_float.jpg "Min (Float) Node")
 
 ## Description
 

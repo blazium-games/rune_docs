@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The SessionStateDel node deletes a value from session state.
 
-![SessionStateDel Node](https://placehold.co/600x400/EEE/31343C)
+![SessionStateDel Node](/img/nodes/session_state_del.jpg "SessionStateDel Node")
 
 ## Description
 

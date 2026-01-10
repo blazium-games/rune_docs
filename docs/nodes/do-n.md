@@ -6,7 +6,7 @@ sidebar_position: 27
 
 The Do N node executes a block of code a specific number of times.
 
-![Do N Node](https://placehold.co/600x400/EEE/31343C)
+![Do N Node](/img/nodes/do_n.jpg "Do N Node")
 
 ## Description
 

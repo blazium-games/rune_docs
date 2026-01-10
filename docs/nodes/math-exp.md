@@ -6,7 +6,7 @@ sidebar_position: 17
 
 The Exp node calculates the exponential function (e raised to the power of a value).
 
-![Exp Node](https://placehold.co/600x400/EEE/31343C)
+![Exp Node](/img/nodes/exp.jpg "Exp Node")
 
 ## Description
 

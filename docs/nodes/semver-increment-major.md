@@ -6,7 +6,7 @@ sidebar_position: 9
 
 The Increment Major node increments the major version number of a semantic version.
 
-![Increment Major Node](https://placehold.co/600x400/EEE/31343C)
+![Increment Major Node](/img/nodes/increment_major.jpg "Increment Major Node")
 
 ## Description
 

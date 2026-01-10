@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Integer to String node converts an integer value to a string.
 
-![Integer to String Node](https://placehold.co/600x400/EEE/31343C)
+![Integer to String Node](/img/nodes/integer_to_string.jpg "Integer to String Node")
 
 ## Description
 

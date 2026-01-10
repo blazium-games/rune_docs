@@ -6,7 +6,7 @@ sidebar_position: 53
 
 The Load Json String node parses a JSON string into structured data.
 
-![Load Json String Node](https://placehold.co/600x400/EEE/31343C)
+![Load JSON String Node](/img/nodes/load_json_string.jpg "Load JSON String Node")
 
 ## Description
 

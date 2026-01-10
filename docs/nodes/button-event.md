@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The Button Event node serves as an entry point for flow execution, triggered by a button press in the interface.
 
-![Button Event Node](https://placehold.co/600x400/EEE/31343C)
+![Button Event Node](/img/nodes/button_event.jpg "Button Event Node")
 
 ## Description
 

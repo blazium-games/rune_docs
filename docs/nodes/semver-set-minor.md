@@ -6,7 +6,7 @@ sidebar_position: 13
 
 The Set Minor node sets the minor version number of a semantic version to a specific value.
 
-![Set Minor Node](https://placehold.co/600x400/EEE/31343C)
+![Set Minor Node](/img/nodes/set_minor.jpg "Set Minor Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Set OpenAI API Key node configures the OpenAI API key for authentication. The API key can be provided directly, from an environment variable, or from a file.
 
-![Set OpenAI API Key Node](https://placehold.co/600x400/EEE/31343C)
+![Set OpenAI API Key Node](/img/nodes/set_openai_api_key.jpg "Set OpenAI API Key Node")
 
 ## Description
 

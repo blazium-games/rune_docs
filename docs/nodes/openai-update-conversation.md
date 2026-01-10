@@ -6,7 +6,7 @@ sidebar_position: 11
 
 The Update Conversation node updates a conversation with an assistant's response. This is used to manually add assistant messages to the conversation history.
 
-![Update Conversation Node](https://placehold.co/600x400/EEE/31343C)
+![Update Conversation Node](/img/nodes/update_conversation.jpg "Update Conversation Node")
 
 ## Description
 

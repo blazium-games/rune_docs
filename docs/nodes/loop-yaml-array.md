@@ -6,7 +6,7 @@ sidebar_position: 39
 
 The Loop Yaml Array node iterates over a YAML array.
 
-![Loop Yaml Array Node](https://placehold.co/600x400/EEE/31343C)
+![Loop YAML Array Node](/img/nodes/loop_yaml_array.jpg "Loop YAML Array Node")
 
 ## Description
 

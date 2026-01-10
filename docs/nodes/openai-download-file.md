@@ -6,7 +6,7 @@ sidebar_position: 30
 
 The Download File node downloads a file from OpenAI's servers and saves it to a local file path.
 
-![Download File Node](https://placehold.co/600x400/EEE/31343C)
+![Download File Node](/img/nodes/download_file.jpg "Download File Node")
 
 ## Description
 

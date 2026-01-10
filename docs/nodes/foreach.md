@@ -6,7 +6,7 @@ sidebar_position: 26
 
 The Foreach node iterates over a collection (array or object) and executes a loop body for each item.
 
-![Foreach Node](https://placehold.co/600x400/EEE/31343C)
+![Foreach Node](/img/nodes/foreach.jpg "Foreach Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 12
 
 The String Compare node compares two string values using various comparison modes.
 
-![String Compare Node](https://placehold.co/600x400/EEE/31343C)
+![String Compare Node](/img/nodes/string_compare.jpg "String Compare Node")
 
 ## Description
 

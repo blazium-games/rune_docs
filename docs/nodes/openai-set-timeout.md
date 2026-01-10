@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Set OpenAI Timeout node configures the timeout duration for OpenAI API requests in milliseconds.
 
-![Set OpenAI Timeout Node](https://placehold.co/600x400/EEE/31343C)
+![Set OpenAi Timeout Node](/img/nodes/set_openai_timeout.jpg "Set OpenAI Timeout Node")
 
 ## Description
 

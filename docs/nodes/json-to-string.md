@@ -6,7 +6,7 @@ sidebar_position: 56
 
 The Json To String node converts JSON data to a string representation.
 
-![Json To String Node](https://placehold.co/600x400/EEE/31343C)
+![JSON to String Node](/img/nodes/json_to_string.jpg "JSON to String Node")
 
 ## Description
 

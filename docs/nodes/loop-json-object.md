@@ -6,7 +6,7 @@ sidebar_position: 55
 
 The Loop Json Object node iterates over a JSON object's properties.
 
-![Loop Json Object Node](https://placehold.co/600x400/EEE/31343C)
+![Loop JSON Object Node](/img/nodes/loop_json_object.jpg "Loop JSON Object Node")
 
 ## Description
 

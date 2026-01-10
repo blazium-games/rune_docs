@@ -6,7 +6,7 @@ sidebar_position: 11
 
 The Console node outputs a message to the execution log.
 
-![Console Node](https://placehold.co/600x400/EEE/31343C)
+![Console Node](/img/nodes/console.jpg "Console Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 21
 
 The Min (Integer) node returns the minimum of two integer values.
 
-![Min (Integer) Node](https://placehold.co/600x400/EEE/31343C)
+![Min (Integer) Node](/img/nodes/min_integer.jpg "Min (Integer) Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 50
 
 The Loop Csv Entries node iterates over rows in CSV data.
 
-![Loop Csv Entries Node](https://placehold.co/600x400/EEE/31343C)
+![Loop CSV Entries Node](/img/nodes/loop_csv_entries.jpg "Loop CSV Entries Node")
 
 ## Description
 

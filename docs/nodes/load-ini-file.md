@@ -6,7 +6,7 @@ sidebar_position: 43
 
 The Load Ini File node reads and parses an INI file from the flow directory.
 
-![Load Ini File Node](https://placehold.co/600x400/EEE/31343C)
+![Load INI File Node](/img/nodes/load_ini_file.jpg "Load INI File Node")
 
 ## Description
 

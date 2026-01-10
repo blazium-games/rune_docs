@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Git Add Files node adds multiple files to the Git staging area.
 
-![Git Add Files Node](https://placehold.co/600x400/EEE/31343C)
+![Git Add Files Node](/img/nodes/git_add_files.jpg "Git Add Files Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The Compare Semver node compares two semantic versions.
 
-![Compare Semver Node](https://placehold.co/600x400/EEE/31343C)
+![Compare Semver Node](/img/nodes/compare_semver.jpg "Compare Semver Node")
 
 ## Description
 

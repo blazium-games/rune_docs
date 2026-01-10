@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The Get Patch node extracts the patch version number from a semantic version string.
 
-![Get Patch Node](https://placehold.co/600x400/EEE/31343C)
+![Get Patch Node](/img/nodes/get_patch.jpg "Get Patch Node")
 
 ## Description
 

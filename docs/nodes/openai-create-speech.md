@@ -6,7 +6,7 @@ sidebar_position: 24
 
 The Create Speech node converts text to speech audio using OpenAI's TTS (text-to-speech) models.
 
-![Create Speech Node](https://placehold.co/600x400/EEE/31343C)
+![Create Speech Node](/img/nodes/create_speech.jpg "Create Speech Node")
 
 ## Description
 

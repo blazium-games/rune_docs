@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Add node performs addition of two numbers.
 
-![Add Node](https://placehold.co/600x400/EEE/31343C)
+![Add Node](/img/nodes/add.jpg "Add Node")
 
 ## Description
 

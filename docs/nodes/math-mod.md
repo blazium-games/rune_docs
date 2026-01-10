@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The Modulo node performs modulo operation (remainder after division) on two numbers.
 
-![Modulo Node](https://placehold.co/600x400/EEE/31343C)
+![Modulo Node](/img/nodes/modulo.jpg "Modulo Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 12
 
 The Get Last Response node retrieves the last response from a conversation, including information about function calls if present.
 
-![Get Last Response Node](https://placehold.co/600x400/EEE/31343C)
+![Get Last Response Node](/img/nodes/get_last_response.jpg "Get Last Response Node")
 
 ## Description
 

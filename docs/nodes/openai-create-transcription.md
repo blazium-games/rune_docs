@@ -6,7 +6,7 @@ sidebar_position: 22
 
 The Create Transcription node transcribes audio files to text using OpenAI's Whisper model.
 
-![Create Transcription Node](https://placehold.co/600x400/EEE/31343C)
+![Create Transcription Node](/img/nodes/create_transcription.jpg "Create Transcription Node")
 
 ## Description
 

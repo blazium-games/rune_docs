@@ -6,7 +6,7 @@ sidebar_position: 8
 
 The Sqrt node calculates the square root of a number.
 
-![Sqrt Node](https://placehold.co/600x400/EEE/31343C)
+![Sqrt Node](/img/nodes/sqrt.jpg "Sqrt Node")
 
 ## Description
 

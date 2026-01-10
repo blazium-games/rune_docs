@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The MCP Triggered Event node serves as an entry point for flow execution, triggered by external MCP clients (such as Cursor) via the MCP server.
 
-![MCP Triggered Event Node](https://placehold.co/600x400/EEE/31343C)
+![MCP Triggered Event Node](/img/nodes/mcp_triggered_event.jpg "MCP Triggered Event Node")
 
 ## Description
 

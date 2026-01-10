@@ -6,7 +6,7 @@ sidebar_position: 8
 
 The Text node provides a string value that can be used as input to other nodes.
 
-![Text Node](https://placehold.co/600x400/EEE/31343C)
+![Text Node](/img/nodes/text.jpg "Text Node")
 
 ## Description
 

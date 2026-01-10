@@ -6,7 +6,7 @@ sidebar_position: 24
 
 The Text To Json node converts a text string to JSON format, validating it in the process.
 
-![Text To Json Node](https://placehold.co/600x400/EEE/31343C)
+![Text to JSON Node](/img/nodes/text_to_json.jpg "Text to JSON Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Substring node extracts a portion of a string starting at a specified position with a specified length.
 
-![Substring Node](https://placehold.co/600x400/EEE/31343C)
+![Substring Node](/img/nodes/substring.jpg "Substring Node")
 
 ## Description
 

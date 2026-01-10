@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The Get File Checksum node calculates a checksum (hash) for a file.
 
-![Get File Checksum Node](https://placehold.co/600x400/EEE/31343C)
+![Get File Checksum Node](/img/nodes/get_file_checksum.jpg "Get File Checksum Node")
 
 ## Description
 

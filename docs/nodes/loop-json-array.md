@@ -6,7 +6,7 @@ sidebar_position: 54
 
 The Loop Json Array node iterates over a JSON array.
 
-![Loop Json Array Node](https://placehold.co/600x400/EEE/31343C)
+![Loop JSON Array Node](/img/nodes/loop_json_array.jpg "Loop JSON Array Node")
 
 ## Description
 

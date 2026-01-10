@@ -6,7 +6,7 @@ sidebar_position: 36
 
 The Crypto Sign node signs data using a private key.
 
-![Crypto Sign Node](https://placehold.co/600x400/EEE/31343C)
+![Crypto Sign Node](/img/nodes/crypto_sign.jpg "Crypto Sign Node")
 
 ## Description
 

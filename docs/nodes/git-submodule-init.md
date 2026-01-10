@@ -6,7 +6,7 @@ sidebar_position: 12
 
 The Git Submodule Init node initializes submodules in the repository.
 
-![Git Submodule Init Node](https://placehold.co/600x400/EEE/31343C)
+![Git Submodule Init Node](/img/nodes/git_submodule_init.jpg "Git Submodule Init Node")
 
 ## Description
 

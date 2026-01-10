@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Get Folders In Folder node retrieves a list of all subdirectories (folders) in a specified directory.
 
-![Get Folders In Folder Node](https://placehold.co/600x400/EEE/31343C)
+![Get Folders in Folder Node](/img/nodes/get_folders_in_folder.jpg "Get Folders in Folder Node")
 
 ## Description
 

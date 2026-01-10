@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The Multiply node performs multiplication of two numbers.
 
-![Multiply Node](https://placehold.co/600x400/EEE/31343C)
+![Multiply Node](/img/nodes/multiply.jpg "Multiply Node")
 
 ## Description
 

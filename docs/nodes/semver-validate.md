@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Validate Semver node checks if a string is a valid semantic version.
 
-![Validate Semver Node](https://placehold.co/600x400/EEE/31343C)
+![Validate Semver Node](/img/nodes/validate_semver.jpg "Validate Semver Node")
 
 ## Description
 

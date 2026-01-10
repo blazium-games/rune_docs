@@ -6,7 +6,7 @@ sidebar_position: 38
 
 The Load Yaml File node reads and parses a YAML file from the flow directory.
 
-![Load Yaml File Node](https://placehold.co/600x400/EEE/31343C)
+![Load YAML File Node](/img/nodes/load_yaml_file.jpg "Load YAML File Node")
 
 ## Description
 

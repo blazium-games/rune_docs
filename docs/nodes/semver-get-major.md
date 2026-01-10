@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Get Major node extracts the major version number from a semantic version string.
 
-![Get Major Node](https://placehold.co/600x400/EEE/31343C)
+![Get Major Node](/img/nodes/get_major.jpg "Get Major Node")
 
 ## Description
 

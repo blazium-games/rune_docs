@@ -6,7 +6,7 @@ sidebar_position: 13
 
 The Git Submodule Deinit node deinitializes submodules in the repository.
 
-![Git Submodule Deinit Node](https://placehold.co/600x400/EEE/31343C)
+![Git Submodule Deinit Node](/img/nodes/git_submodule_deinit.jpg "Git Submodule Deinit Node")
 
 ## Description
 

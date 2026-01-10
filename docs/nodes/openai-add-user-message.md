@@ -6,7 +6,7 @@ sidebar_position: 9
 
 The Add User Message node adds a user message to an existing conversation. This message will be included in the conversation history for future completions.
 
-![Add User Message Node](https://placehold.co/600x400/EEE/31343C)
+![Add User Message Node](/img/nodes/add_user_message.jpg "Add User Message Node")
 
 ## Description
 

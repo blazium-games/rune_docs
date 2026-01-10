@@ -6,7 +6,7 @@ sidebar_position: 18
 
 The Fmod node performs floating-point modulo operation (remainder after division).
 
-![Fmod Node](https://placehold.co/600x400/EEE/31343C)
+![Fmod Node](/img/nodes/fmod.jpg "Fmod Node")
 
 ## Description
 

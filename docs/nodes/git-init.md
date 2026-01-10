@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Git Init node initializes a new Git repository at the specified path.
 
-![Git Init Node](https://placehold.co/600x400/EEE/31343C)
+![Git Init Node](/img/nodes/git_init.jpg "Git Init Node")
 
 ## Description
 

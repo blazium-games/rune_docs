@@ -6,7 +6,7 @@ sidebar_position: 33
 
 The Crypto Generate Random node generates cryptographically secure random values.
 
-![Crypto Generate Random Node](https://placehold.co/600x400/EEE/31343C)
+![Crypto Generate Random Node](/img/nodes/crypto_generate_random.jpg "Crypto Generate Random Node")
 
 ## Description
 

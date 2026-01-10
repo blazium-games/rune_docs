@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Git Pull node pulls changes from a remote repository and merges them into the current branch.
 
-![Git Pull Node](https://placehold.co/600x400/EEE/31343C)
+![Git Pull Node](/img/nodes/git_pull.jpg "Git Pull Node")
 
 ## Description
 

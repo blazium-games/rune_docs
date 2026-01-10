@@ -6,7 +6,7 @@ sidebar_position: 9
 
 The Integer node provides an integer (whole number) value that can be used as input to other nodes.
 
-![Integer Node](https://placehold.co/600x400/EEE/31343C)
+![Integer Node](/img/nodes/integer.jpg "Integer Node")
 
 ## Description
 

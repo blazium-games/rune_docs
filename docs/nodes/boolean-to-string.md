@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The Boolean to String node converts a boolean value to a string.
 
-![Boolean to String Node](https://placehold.co/600x400/EEE/31343C)
+![Boolean to String Node](/img/nodes/boolean_to_string.jpg "Boolean to String Node")
 
 ## Description
 

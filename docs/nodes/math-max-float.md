@@ -6,7 +6,7 @@ sidebar_position: 22
 
 The Max (Float) node returns the maximum of two floating-point values.
 
-![Max (Float) Node](https://placehold.co/600x400/EEE/31343C)
+![Max (Float) Node](/img/nodes/max_float.jpg "Max (Float) Node")
 
 ## Description
 

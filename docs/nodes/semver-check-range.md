@@ -6,7 +6,7 @@ sidebar_position: 17
 
 The Check Range node checks if a semantic version matches a version range.
 
-![Check Range Node](https://placehold.co/600x400/EEE/31343C)
+![Check Range Node](/img/nodes/check_range.jpg "Check Range Node")
 
 ## Description
 

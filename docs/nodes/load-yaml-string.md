@@ -6,7 +6,7 @@ sidebar_position: 37
 
 The Load Yaml String node parses a YAML string into structured data.
 
-![Load Yaml String Node](https://placehold.co/600x400/EEE/31343C)
+![Load YAML String Node](/img/nodes/load_yaml_string.jpg "Load YAML String Node")
 
 ## Description
 

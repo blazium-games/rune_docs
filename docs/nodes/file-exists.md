@@ -6,7 +6,7 @@ sidebar_position: 23
 
 The File Exists node checks if a file or directory exists in the flow directory.
 
-![File Exists Node](https://placehold.co/600x400/EEE/31343C)
+![File Exists Node](/img/nodes/file_exists.jpg "File Exists Node")
 
 ## Description
 

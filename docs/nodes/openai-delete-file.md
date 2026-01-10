@@ -6,7 +6,7 @@ sidebar_position: 29
 
 The Delete File node deletes a file from your OpenAI account.
 
-![Delete File Node](https://placehold.co/600x400/EEE/31343C)
+![Delete File Node](/img/nodes/delete_file.jpg "Delete File Node")
 
 ## Description
 

@@ -29,6 +29,8 @@ These directories can be changed later in the settings.
 
 ## The Interface
 
+![RUNE Interface window](/img/rune-interface.jpg "RUNE Inteface window")
+
 ### Node Menu (Left Side)
 
 The left panel shows:

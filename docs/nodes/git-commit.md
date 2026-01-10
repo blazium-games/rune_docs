@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The Git Commit node creates a commit with the staged changes in the repository.
 
-![Git Commit Node](https://placehold.co/600x400/EEE/31343C)
+![Git Commit Node](/img/nodes/git_commit.jpg "Git Commit Node")
 
 ## Description
 

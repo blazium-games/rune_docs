@@ -6,7 +6,7 @@ sidebar_position: 46
 
 The String To Ini node converts structured data to INI format.
 
-![String To Ini Node](https://placehold.co/600x400/EEE/31343C)
+![String to INI Node](/img/nodes/string_to_ini.jpg "String to INI Node")
 
 ## Description
 

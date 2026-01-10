@@ -6,7 +6,7 @@ sidebar_position: 45
 
 The Loop Ini Key Value node iterates over key-value pairs in an INI section.
 
-![Loop Ini Key Value Node](https://placehold.co/600x400/EEE/31343C)
+![Loop INI Key Value Node](/img/nodes/loop_ini_key_value.jpg "Loop INI Key Value Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 42
 
 The Load Ini String node parses an INI string into structured data.
 
-![Load Ini String Node](https://placehold.co/600x400/EEE/31343C)
+![Load INI String Node](/img/nodes/load_ini_string.jpg "Load INI String Node")
 
 ## Description
 

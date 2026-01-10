@@ -6,7 +6,7 @@ sidebar_position: 41
 
 The Yaml To String node converts YAML data to a string representation.
 
-![Yaml To String Node](https://placehold.co/600x400/EEE/31343C)
+![YAML to String Node](/img/nodes/yaml_to_string.jpg "YAML to String Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 8
 
 The Create Conversation node creates a new conversation context for chat completions. This conversation maintains message history and context.
 
-![Create Conversation Node](https://placehold.co/600x400/EEE/31343C)
+![Create Conversation Node](/img/nodes/create_conversation.jpg "Create Conversation Node")
 
 ## Description
 

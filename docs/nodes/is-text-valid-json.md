@@ -6,7 +6,7 @@ sidebar_position: 25
 
 The Is Text Valid Json node checks if a text string is valid JSON format.
 
-![Is Text Valid Json Node](https://placehold.co/600x400/EEE/31343C)
+![Is Text Valid JSON Node](/img/nodes/is_text_valid_json.jpg "Is Text Valid JSON Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The Git Add Folder node adds all files in a folder to the Git staging area.
 
-![Git Add Folder Node](https://placehold.co/600x400/EEE/31343C)
+![Git Add Folder Node](/img/nodes/git_add_folder.jpg "Git Add Folder Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The Set Azure OpenAI API Key node configures the Azure OpenAI API key for authentication when using Azure's OpenAI service.
 
-![Set Azure OpenAI API Key Node](https://placehold.co/600x400/EEE/31343C)
+![Set Azure OpenAI API Key Node](/img/nodes/set_azure_openai_api_key.jpg "Set Azure OpenAI API Key Node")
 
 ## Description
 

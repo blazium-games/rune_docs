@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The Set OpenAI Proxy node configures proxy settings for OpenAI API requests. This is useful when you need to route API calls through a proxy server.
 
-![Set OpenAI Proxy Node](https://placehold.co/600x400/EEE/31343C)
+![Set OpenAI Proxy Node](/img/nodes/set_openai_proxy.jpg "Set OpenAI Proxy Node")
 
 ## Description
 

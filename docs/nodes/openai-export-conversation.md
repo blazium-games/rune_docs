@@ -6,7 +6,7 @@ sidebar_position: 13
 
 The Export Conversation node exports a conversation to JSON format, including all messages and metadata.
 
-![Export Conversation Node](https://placehold.co/600x400/EEE/31343C)
+![Export Conversation Node](/img/nodes/export_conversation.jpg "Export Conversation Node")
 
 ## Description
 

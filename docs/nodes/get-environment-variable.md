@@ -6,7 +6,7 @@ sidebar_position: 32
 
 The Get Environment Variable node retrieves an environment variable value.
 
-![Get Environment Variable Node](https://placehold.co/600x400/EEE/31343C)
+![Get Environment Variable Node](/img/nodes/get_environment_variable.jpg "Get Environment Variable Node")
 
 ## Description
 

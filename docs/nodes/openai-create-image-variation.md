@@ -6,7 +6,7 @@ sidebar_position: 20
 
 The Create Image Variation node generates variations of an existing image using DALL-E.
 
-![Create Image Variation Node](https://placehold.co/600x400/EEE/31343C)
+![Create Image Variation Node](/img/nodes/create_image_variation.jpg "Create Image Variation Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 12
 
 The Set Major node sets the major version number of a semantic version to a specific value.
 
-![Set Major Node](https://placehold.co/600x400/EEE/31343C)
+![Set Major Node](/img/nodes/set_major.jpg "Set Major Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 25
 
 The Save Speech to File node saves base64-encoded audio data (from Create Speech node) to a local file.
 
-![Save Speech to File Node](https://placehold.co/600x400/EEE/31343C)
+![Save Speech to File Node](/img/nodes/save_speech_to_file.jpg "Save Speech to File Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 21
 
 The Download Generated Image node downloads an image from a URL (typically from a Generate Image node) and saves it to a local file.
 
-![Download Generated Image Node](https://placehold.co/600x400/EEE/31343C)
+![Download Generated Image Node](/img/nodes/download_generated_image.jpg "Download Generated Image Node")
 
 ## Description
 

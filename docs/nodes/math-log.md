@@ -6,7 +6,7 @@ sidebar_position: 15
 
 The Log (e) node calculates the natural logarithm (base e) of a number.
 
-![Log (e) Node](https://placehold.co/600x400/EEE/31343C)
+![Log (e) Node](/img/nodes/log_e.jpg "Log (e) Node")
 
 ## Description
 

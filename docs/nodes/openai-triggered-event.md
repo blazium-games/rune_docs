@@ -6,7 +6,7 @@ sidebar_position: 31
 
 The OpenAI Triggered Event node serves as an entry point for flow execution, triggered by OpenAI function calls from chat completions.
 
-![OpenAI Triggered Event Node](https://placehold.co/600x400/EEE/31343C)
+![OpenAI Triggered Event Node](/img/nodes/openai_triggered_event.jpg "OpenAI Triggered Event Node")
 
 ## Description
 

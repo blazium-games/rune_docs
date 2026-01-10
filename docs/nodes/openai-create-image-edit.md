@@ -6,7 +6,7 @@ sidebar_position: 19
 
 The Create Image Edit node edits an existing image based on a text prompt and optional mask image.
 
-![Create Image Edit Node](https://placehold.co/600x400/EEE/31343C)
+![Create Image Edit Node](/img/nodes/create_image_edit.jpg "Create Image Edit Node")
 
 ## Description
 

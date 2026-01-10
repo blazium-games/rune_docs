@@ -6,7 +6,7 @@ sidebar_position: 15
 
 The Create Completion node generates a text completion using OpenAI's completion models (like text-davinci-003).
 
-![Create Completion Node](https://placehold.co/600x400/EEE/31343C)
+![Create Completion Node](/img/nodes/create_completion.jpg "Create Completion Node")
 
 ## Description
 

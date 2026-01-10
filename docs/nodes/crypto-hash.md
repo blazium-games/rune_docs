@@ -6,7 +6,7 @@ sidebar_position: 34
 
 The Crypto Hash node computes a cryptographic hash of input data.
 
-![Crypto Hash Node](https://placehold.co/600x400/EEE/31343C)
+![Crypto Hash Node](/img/nodes/crypto_hash.jpg "Crypto Hash Node")
 
 ## Description
 

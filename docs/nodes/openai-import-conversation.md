@@ -6,7 +6,7 @@ sidebar_position: 14
 
 The Import Conversation node imports a conversation from JSON format, restoring all messages and metadata.
 
-![Import Conversation Node](https://placehold.co/600x400/EEE/31343C)
+![Import Conversation Node](/img/nodes/import_conversation.jpg "Import Conversation Node")
 
 ## Description
 

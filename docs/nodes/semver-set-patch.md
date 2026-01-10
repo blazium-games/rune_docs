@@ -6,7 +6,7 @@ sidebar_position: 14
 
 The Set Patch node sets the patch version number of a semantic version to a specific value.
 
-![Set Patch Node](https://placehold.co/600x400/EEE/31343C)
+![Set Patch Node](/img/nodes/set_patch.jpg "Set Patch Node")
 
 ## Description
 

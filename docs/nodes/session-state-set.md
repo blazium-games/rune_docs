@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The SessionStateSet node stores a value in session state for use by other nodes in the flow.
 
-![SessionStateSet Node](https://placehold.co/600x400/EEE/31343C)
+![SessionStateSet Node](/img/nodes/session_state_set.jpg "SessionStateSet Node")
 
 ## Description
 

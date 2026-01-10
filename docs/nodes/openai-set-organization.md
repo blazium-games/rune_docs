@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Set OpenAI Organization node configures the OpenAI organization ID for API requests. This is useful when you have access to multiple organizations.
 
-![Set OpenAI Organization Node](https://placehold.co/600x400/EEE/31343C)
+![Set OpenAI Organization Node](/img/nodes/set_openai_organization.jpg "Set OpenAI Organization Node")
 
 ## Description
 

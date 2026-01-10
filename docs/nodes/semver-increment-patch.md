@@ -6,7 +6,7 @@ sidebar_position: 11
 
 The Increment Patch node increments the patch version number of a semantic version.
 
-![Increment Patch Node](https://placehold.co/600x400/EEE/31343C)
+![Increment Patch Node](/img/nodes/increment_patch.jpg "Increment Patch Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 18
 
 The To String node constructs a semantic version string from individual components.
 
-![To String Node](https://placehold.co/600x400/EEE/31343C)
+![To String Node](/img/nodes/to_string.jpg "To String Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The Abs (Integer) node returns the absolute value of an integer.
 
-![Abs (Integer) Node](https://placehold.co/600x400/EEE/31343C)
+![Abs (Integer) Node](/img/nodes/abs_integer.jpg "Abs (Integer) Node")
 
 ## Description
 

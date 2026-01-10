@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Subtract node performs subtraction of two numbers.
 
-![Subtract Node](https://placehold.co/600x400/EEE/31343C)
+![Subtract Node](/img/nodes/subtract.jpg "Subtract Node")
 
 ## Description
 

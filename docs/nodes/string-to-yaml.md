@@ -6,7 +6,7 @@ sidebar_position: 40
 
 The String To Yaml node converts a string to YAML format.
 
-![String To Yaml Node](https://placehold.co/600x400/EEE/31343C)
+![String to YAML Node](/img/nodes/string_to_yaml.jpg "String to YAML Node")
 
 ## Description
 

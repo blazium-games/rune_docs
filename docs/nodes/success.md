@@ -6,7 +6,7 @@ sidebar_position: 29
 
 The Success node marks the flow execution as successful.
 
-![Success Node](https://placehold.co/600x400/EEE/31343C)
+![Success Node](/img/nodes/success.jpg "Success Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The Git Push node pushes local commits to a remote repository.
 
-![Git Push Node](https://placehold.co/600x400/EEE/31343C)
+![Git Push Node](/img/nodes/git_push.jpg "Git Push Node")
 
 ## Description
 

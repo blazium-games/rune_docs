@@ -6,7 +6,7 @@ sidebar_position: 10
 
 The Increment Minor node increments the minor version number of a semantic version.
 
-![Increment Minor Node](https://placehold.co/600x400/EEE/31343C)
+![Increment Minor Node](/img/nodes/increment_minor.jpg "Increment Minor Node")
 
 ## Description
 

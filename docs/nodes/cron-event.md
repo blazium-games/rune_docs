@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The Cron Event node triggers flow execution on a schedule using cron syntax.
 
-![Cron Event Node](https://placehold.co/600x400/EEE/31343C)
+![Cron Event Node](/img/nodes/cron_event.jpg "Cron Event Node")
 
 ## Description
 

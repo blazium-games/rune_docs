@@ -6,7 +6,7 @@ sidebar_position: 16
 
 The Set Build node sets the build metadata of a semantic version.
 
-![Set Build Node](https://placehold.co/600x400/EEE/31343C)
+![Set Build Node](/img/nodes/set_build.jpg "Set Build Node")
 
 ## Description
 

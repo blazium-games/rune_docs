@@ -6,7 +6,7 @@ sidebar_position: 18
 
 The Generate Image (Async) node initiates an asynchronous image generation request. The response is handled in the background and can be retrieved later.
 
-![Generate Image (Async) Node](https://placehold.co/600x400/EEE/31343C)
+![Generate Image (Async) Node](/img/nodes/generate_image_async.jpg "Generate Image (Async) Node")
 
 ## Description
 

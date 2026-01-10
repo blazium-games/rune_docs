@@ -6,7 +6,7 @@ sidebar_position: 28
 
 The Trigger Flow node executes another flow by name.
 
-![Trigger Flow Node](https://placehold.co/600x400/EEE/31343C)
+![Trigger Flow Node](/img/nodes/trigger_flow.jpg "Trigger Flow Node")
 
 ## Description
 

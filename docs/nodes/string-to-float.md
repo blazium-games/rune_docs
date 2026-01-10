@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The String to Float node converts a string value to a floating-point number.
 
-![String to Float Node](https://placehold.co/600x400/EEE/31343C)
+![String to Float Node](/img/nodes/string_to_float.jpg "String to Float Node")
 
 ## Description
 

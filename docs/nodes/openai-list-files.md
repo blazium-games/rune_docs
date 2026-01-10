@@ -6,7 +6,7 @@ sidebar_position: 27
 
 The List Files node retrieves a list of all files uploaded to your OpenAI account.
 
-![List Files Node](https://placehold.co/600x400/EEE/31343C)
+![List Files Node](/img/nodes/list_files.jpg "List Files Node")
 
 ## Description
 

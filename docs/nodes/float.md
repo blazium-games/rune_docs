@@ -6,7 +6,7 @@ sidebar_position: 10
 
 The Float node provides a floating-point (decimal) number value that can be used as input to other nodes.
 
-![Float Node](https://placehold.co/600x400/EEE/31343C)
+![Float Node](/img/nodes/float.jpg "Float Node")
 
 ## Description
 

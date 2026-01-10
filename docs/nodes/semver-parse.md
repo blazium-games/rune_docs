@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Parse Semver node parses a semantic version string and extracts its components.
 
-![Parse Semver Node](https://placehold.co/600x400/EEE/31343C)
+![Parse Semver Node](/img/nodes/parse_semver.jpg "Parse Semver Node")
 
 ## Description
 

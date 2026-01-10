@@ -6,7 +6,7 @@ sidebar_position: 35
 
 The Crypto HMAC node computes an HMAC (Hash-based Message Authentication Code).
 
-![Crypto HMAC Node](https://placehold.co/600x400/EEE/31343C)
+![Crypto HMAC Node](/img/nodes/crypto_hmac.jpg "Crypto HMAC Node")
 
 ## Description
 

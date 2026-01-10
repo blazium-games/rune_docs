@@ -6,7 +6,7 @@ sidebar_position: 15
 
 The Array Compare node compares array values and checks array properties.
 
-![Array Compare Node](https://placehold.co/600x400/EEE/31343C)
+![Array Compare Node](/img/nodes/array_compare.jpg "Array Compare Node")
 
 ## Description
 

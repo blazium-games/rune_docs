@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The Integer to Float node converts an integer value to a floating-point number.
 
-![Integer to Float Node](https://placehold.co/600x400/EEE/31343C)
+![Integer to Float Node](/img/nodes/integer_to_float.jpg "Integer to Float Node")
 
 ## Description
 

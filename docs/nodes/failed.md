@@ -6,7 +6,7 @@ sidebar_position: 30
 
 The Failed node marks the flow execution as failed.
 
-![Failed Node](https://placehold.co/600x400/EEE/31343C)
+![Failed Node](/img/nodes/failed.jpg "Failed Node")
 
 ## Description
 

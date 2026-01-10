@@ -6,7 +6,7 @@ sidebar_position: 12
 
 The Round node rounds a number to the nearest integer.
 
-![Round Node](https://placehold.co/600x400/EEE/31343C)
+![Round Node](/img/nodes/round.jpg "Round Node")
 
 ## Description
 

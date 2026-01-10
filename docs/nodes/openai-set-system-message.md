@@ -6,7 +6,7 @@ sidebar_position: 10
 
 The Set System Message node sets or updates the system message for a conversation. The system message defines the AI's behavior and role.
 
-![Set System Message Node](https://placehold.co/600x400/EEE/31343C)
+![Set System Message Node](/img/nodes/set_system_message.jpg "Set System Message Node")
 
 ## Description
 

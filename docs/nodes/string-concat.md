@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Concat node concatenates (joins) two strings together.
 
-![Concat Node](https://placehold.co/600x400/EEE/31343C)
+![Concat Node](/img/nodes/concat.jpg "Concat Node")
 
 ## Description
 

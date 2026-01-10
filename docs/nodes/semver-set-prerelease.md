@@ -6,7 +6,7 @@ sidebar_position: 15
 
 The Set Prerelease node sets the prerelease identifier of a semantic version.
 
-![Set Prerelease Node](https://placehold.co/600x400/EEE/31343C)
+![Set Prerelease Node](/img/nodes/set_prerelease.jpg "Set Prerelease Node")
 
 ## Description
 

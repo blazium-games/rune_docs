@@ -6,7 +6,7 @@ sidebar_position: 14
 
 The Round (Integer) node rounds an integer to the nearest multiple of a specified value.
 
-![Round (Integer) Node](https://placehold.co/600x400/EEE/31343C)
+![Round (Integer) Node](/img/nodes/round_integer.jpg "Round (Integer) Node")
 
 ## Description
 

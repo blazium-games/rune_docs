@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Introduction to RUNE
 
+![Simple RUNE flow](/img/rune-flow.jpg "Simple RUNE flow")
+
 Welcome to the RUNE Interface documentation! R.U.N.E. – Routing & Utility Node Editor is a visual workflow editor that lets you build automation flows, data processing pipelines, and complex logic without writing traditional code.
 
 ## What is RUNE?

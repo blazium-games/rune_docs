@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Sequence node executes multiple execution paths in order, one after another.
 
-![Sequence Node](https://placehold.co/600x400/EEE/31343C)
+![Sequence Node](/img/nodes/sequence.jpg "Sequence Node")
 
 ## Description
 

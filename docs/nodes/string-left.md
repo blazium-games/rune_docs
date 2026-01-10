@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Left node extracts a specified number of characters from the left (beginning) of a string.
 
-![Left Node](https://placehold.co/600x400/EEE/31343C)
+![Left Node](/img/nodes/left.jpg "Left Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 10
 
 The Boolean node provides a boolean (true/false) value that can be used as input to other nodes.
 
-![Boolean Node](https://placehold.co/600x400/EEE/31343C)
+![Boolean Node](/img/nodes/boolean.jpg "Boolean Node")
 
 ## Description
 

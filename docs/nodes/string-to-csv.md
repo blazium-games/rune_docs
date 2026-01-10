@@ -6,7 +6,7 @@ sidebar_position: 51
 
 The String To Csv node converts structured data to CSV format.
 
-![String To Csv Node](https://placehold.co/600x400/EEE/31343C)
+![String to CSV Node](/img/nodes/string_to_csv.jpg "String to CSV Node")
 
 ## Description
 

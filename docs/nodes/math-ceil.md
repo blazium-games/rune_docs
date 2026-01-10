@@ -6,7 +6,7 @@ sidebar_position: 10
 
 The Ceil node rounds a number up to the nearest integer.
 
-![Ceil Node](https://placehold.co/600x400/EEE/31343C)
+![Ceil Node](/img/nodes/ceil.jpg "Ceil Node")
 
 ## Description
 

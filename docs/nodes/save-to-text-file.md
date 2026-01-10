@@ -6,7 +6,7 @@ sidebar_position: 20
 
 The Save To Text File node writes content to a text file in the flow directory.
 
-![Save To Text File Node](https://placehold.co/600x400/EEE/31343C)
+![Save to Text File Node](/img/nodes/save_to_text_file.jpg "Save to Text File Node")
 
 ## Description
 

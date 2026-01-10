@@ -6,7 +6,7 @@ sidebar_position: 20
 
 The Max (Integer) node returns the maximum of two integer values.
 
-![Max (Integer) Node](https://placehold.co/600x400/EEE/31343C)
+![Max (Integer) Node](/img/nodes/max_integer.jpg "Max (Integer) Node")
 
 ## Description
 

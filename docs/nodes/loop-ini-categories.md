@@ -6,7 +6,7 @@ sidebar_position: 44
 
 The Loop Ini Categories node iterates over INI sections (categories).
 
-![Loop Ini Categories Node](https://placehold.co/600x400/EEE/31343C)
+![Loop INI Categories Node](/img/nodes/loop_ini_categories.jpg "Loop INI Categories Node")
 
 ## Description
 

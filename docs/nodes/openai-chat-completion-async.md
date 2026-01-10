@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The Create Chat Completion (Async) node initiates an asynchronous chat completion request. The response is handled in the background and can be retrieved later.
 
-![Create Chat Completion (Async) Node](https://placehold.co/600x400/EEE/31343C)
+![Create Chat Completion (Async) Node](/img/nodes/create_chat_completion_async.jpg "Create Chat Completion (Async) Node")
 
 ## Description
 

@@ -6,7 +6,7 @@ sidebar_position: 5
 
 The Get Minor node extracts the minor version number from a semantic version string.
 
-![Get Minor Node](https://placehold.co/600x400/EEE/31343C)
+![Get Minor Node](/img/nodes/get_minor.jpg "Get Minor Node")
 
 ## Description
 
