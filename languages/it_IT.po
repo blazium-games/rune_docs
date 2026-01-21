@@ -3,84 +3,39 @@ msgstr ""
 "Project-Id-Version: RUNE\n"
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"PO-Revision-Date: 2025-11-29 01:12-0700\n"
+"PO-Revision-Date: 2026-01-21 20:02+0100\n"
 "X-Native-Name: Italiano\n"
 "X-English-Name: Italian\n"
-
-msgid "Name is required"
-msgstr "Nome richiesto"
-
-msgid "Join our Discord"
-msgstr "Entra nel Discord"
-
-msgid "Language"
-msgstr "Lingua"
-
-msgid "Security:"
-msgstr "Sicurezza:"
-
-msgid "(Where your flow files will be stored)"
-msgstr "(Dove verranno salvati i tuoi flow)"
-
-msgid "Select an existing flow or create a new one to continue."
-msgstr "Seleziona un flow esistente o creane uno nuovo per continuare"
-
-msgid "Language:"
-msgstr "Lingua:"
-
-msgid "Exit Flow"
-msgstr "Esci Flow"
-
-msgid "Cancel"
-msgstr "Cancella"
 
 msgid "First Time Setup"
 msgstr "Setup Iniziale"
 
-msgid "About"
-msgstr "Info"
-
 msgid "Welcome to RUNE Interface!"
 msgstr "Benvenuto nell'interfaccia RUNE!"
-
-msgid "(Where temporary files and cache will be stored)"
-msgstr "(Dove i file temporanei e la cache verranno salvati)"
 
 msgid "Please configure the directories for cache and flows."
 msgstr "Configura le cartelle per la cache e i flow."
 
-msgid "Export Flow"
-msgstr "Esporta Flow"
+msgid "Language:"
+msgstr "Lingua:"
 
-msgid "No languages found"
-msgstr "Nessuna lingua trovata"
+msgid "Language"
+msgstr "Lingua"
 
 msgid "Select Language"
 msgstr "Seleziona Lingua"
 
-msgid "Flow ID:"
-msgstr "ID Flow:"
-
-msgid "Files to import:"
-msgstr "File da importare:"
-
 msgid "Default language"
 msgstr "Lingua predefinita"
 
-msgid "Settings"
-msgstr "Impostazioni"
-
-msgid "Paste"
-msgstr "Incolla"
-
-msgid "Save"
-msgstr "Salva"
-
-msgid "Determines how much detail is written to log files"
-msgstr "Determina la quantità di dettagli scritti nei file di log"
+msgid "No languages found"
+msgstr "Nessuna lingua trovata"
 
 msgid "Log Verbosity:"
 msgstr "Verbosità Log:"
+
+msgid "Determines how much detail is written to log files"
+msgstr "Determina la quantità di dettagli scritti nei file di log"
 
 msgid "Flow Logging:"
 msgstr "Logging Del Flow:"
@@ -88,35 +43,38 @@ msgstr "Logging Del Flow:"
 msgid "Create dedicated log files whenever flows execute"
 msgstr "Crea file di log dedicati ogni volta che vengono eseguiti i flow"
 
+msgid "Security:"
+msgstr "Sicurezza:"
+
 msgid "Allow Environment Variable Access"
-msgstr "Consenti l'accesso alle variabili d'ambiente"
+msgstr "Consenti l'accesso alle variabili di ambiente"
 
 msgid "Allow rune/runecli to access environment variables outside of memory"
-msgstr "Consenti a rune/runecli di accedere alle variabili d'ambiente esterne alla memoria"
+msgstr "Consenti a rune/runecli di accedere alle variabili di ambiente esterne alla memoria"
 
 msgid "Disable Directory Sandboxing"
-msgstr "Disabilità Il Sandboxing Delle Cartelle"
+msgstr "Disabilità Sandboxing Delle Cartelle"
 
 msgid "Allow lua/luau scripts and nodes to access files outside the flow directory"
 msgstr "Consenti agli script lua/luau e ai nodi di accedere a file al di fuori della cartella del flow"
 
-msgid "Copy"
-msgstr "Copia"
-
 msgid "Cache Directory:"
-msgstr "Cartella Della Cache:"
+msgstr "Cache Directory:"
 
-msgid "When minimizing the application, hide it in the system tray instead of the taskbar"
-msgstr "Minimizza l'applicatione nel system tray invece che delle taskbar"
-
-msgid "Info"
-msgstr "Info"
+msgid "(Where temporary files and cache will be stored)"
+msgstr "(Dove i file temporanei e la cache verranno salvati)"
 
 msgid "Flows Directory:"
-msgstr "Cartella Dei Flow:"
+msgstr "Cartella dei Flow:"
+
+msgid "(Where your flow files will be stored)"
+msgstr "(Dove verranno salvati i tuoi flow)"
 
 msgid "Browse"
 msgstr "Naviga"
+
+msgid "Save"
+msgstr "Salva"
 
 msgid "Application Settings"
 msgstr "Impostazioni Applicazione"
@@ -124,17 +82,14 @@ msgstr "Impostazioni Applicazione"
 msgid "No languages available"
 msgstr "Nessuna lingua disponibile"
 
-msgid "Name:"
-msgstr "Nome:"
-
-msgid "Import"
-msgstr "Importa"
+msgid "Settings"
+msgstr "Impostazioni"
 
 msgid "Export Base Language File"
 msgstr "Esporta File Lingua Base"
 
-msgid "Flow File:"
-msgstr "Flow File:"
+msgid "About"
+msgstr "Info"
 
 msgid "Documentation"
 msgstr "Documentazione"
@@ -145,41 +100,35 @@ msgstr "Comunità"
 msgid "Forums"
 msgstr "Forum"
 
-msgid "New Flow"
-msgstr "Nuovo Flow"
+msgid "Join our Discord"
+msgstr "Entra nel Discord"
 
 msgid "Help with docs/translations"
 msgstr "Aiuta con la documentazione e traduzioni"
 
-msgid "Help"
-msgstr "Aiuto"
-
-msgid "Trigger"
-msgstr "Trigger"
+msgid "Cancel"
+msgstr "Cancella"
 
 msgid "Close"
 msgstr "Chiudi"
 
-msgid "File"
-msgstr "File"
-
-msgid "Cut"
-msgstr "Taglia"
+msgid "Copy"
+msgstr "Copia"
 
 msgid "Create Flow"
 msgstr "Crea Flow"
 
-msgid "No flow loaded"
-msgstr "Nessun flow caricato"
-
 msgid "Create %s"
 msgstr "Crea %s"
 
-msgid "Error"
-msgstr "Errore"
+msgid "Cut"
+msgstr "Taglia"
 
 msgid "Edit"
 msgstr "Modifica"
+
+msgid "Error"
+msgstr "Errore"
 
 msgid "Errors"
 msgstr "Errori"
@@ -187,14 +136,32 @@ msgstr "Errori"
 msgid "Exit"
 msgstr "Esci"
 
-msgid "Filter:"
-msgstr "Filtri:"
+msgid "Exit Flow"
+msgstr "Esci Flow"
 
-msgid "Flow ID: lowercase, no spaces, only letters, numbers, - or _"
-msgstr "ID Flow: solo lettere minuscole, numeri, - e _"
+msgid "Export Flow"
+msgstr "Esporta Flow"
+
+msgid "File"
+msgstr "File"
+
+msgid "Files to import:"
+msgstr "File da importare:"
+
+msgid "Filter:"
+msgstr "Filtro:"
 
 msgid "Flow"
 msgstr "Flow"
+
+msgid "Flow File:"
+msgstr "Flow File:"
+
+msgid "Flow ID:"
+msgstr "ID Flow:"
+
+msgid "Flow ID: lowercase, no spaces, only letters, numbers, - or _"
+msgstr "ID Flow: solo lettere minuscole, numeri, - e _"
 
 msgid "Flow Name:"
 msgstr "Nome Flow:"
@@ -202,14 +169,35 @@ msgstr "Nome Flow:"
 msgid "Flow Settings"
 msgstr "Impostazioni Flow"
 
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Import"
+msgstr "Import"
+
 msgid "Import Flow"
 msgstr "Importa Flow"
+
+msgid "Info"
+msgstr "Info"
 
 msgid "Log Level:"
 msgstr "Livello di Log:"
 
+msgid "Name is required"
+msgstr "Nome richiesto"
+
+msgid "Name:"
+msgstr "Nome:"
+
+msgid "New Flow"
+msgstr "Nuovo Flow"
+
 msgid "No execution history available"
 msgstr "Nessuna cronologia di esecuzione disponibile"
+
+msgid "No flow loaded"
+msgstr "Nessun flow caricato"
 
 msgid "Node Information"
 msgstr "Informazioni Nodo"
@@ -229,6 +217,9 @@ msgstr "Info Originale Del Flow:"
 msgid "Original Name:"
 msgstr "Nome Originale"
 
+msgid "Paste"
+msgstr "Incolla"
+
 msgid "Redo"
 msgstr "Ripeti"
 
@@ -247,11 +238,17 @@ msgstr "Salva Flow Come..."
 msgid "Select a node to view information"
 msgstr "Seleziona un nodo per visualizzare le informazioni"
 
+msgid "Select an existing flow or create a new one to continue."
+msgstr "Seleziona un flow esistente o creane uno nuovo per continuare"
+
 msgid "Save changes to \"%s\" before exiting?"
 msgstr "Salva modifiche a \"%s\" prima di uscire?"
 
 msgid "Toggle Panels"
-msgstr "Toggle Panels"
+msgstr "Attiva/Disattiva Pannelli"
+
+msgid "Trigger"
+msgstr "Trigger"
 
 msgid "Undo"
 msgstr "Annulla"
@@ -267,9 +264,6 @@ msgstr "Avvisa"
 
 msgid "Warnings"
 msgstr "Avvisi"
-
-msgid "Execution Inputs:"
-msgstr "Input Di Esecuzione:"
 
 msgid "Yes"
 msgstr "Si"
@@ -292,8 +286,8 @@ msgstr "Stato: Fallimento"
 msgid "Nodes Executed:"
 msgstr "Nodi Eseguiti:"
 
-msgid "Server Controls:"
-msgstr "Controlli Del Server:"
+msgid "Execution Inputs:"
+msgstr "Input Di Esecuzione:"
 
 msgid "Inputs:"
 msgstr "Input:"
@@ -313,6 +307,9 @@ msgstr "Connesso a:"
 msgid "Not connected"
 msgstr "Non connesso"
 
+msgid "Name:"
+msgstr "Nome:"
+
 msgid "Version:"
 msgstr "Versione:"
 
@@ -323,7 +320,10 @@ msgid "Debug"
 msgstr "Debug"
 
 msgid "Minimize to Taskbar"
-msgstr "Minimizza alla Taskbar"
+msgstr "Minimizza alla barra delle applicazioni"
+
+msgid "When minimizing the application, hide it in the system tray instead of the taskbar"
+msgstr "Quando si minimizza l'applicazione, nascondila nel tray di sistema invece che nella barra delle applicazioni."
 
 msgid "MCP Server:"
 msgstr "Server MCP:"
@@ -343,8 +343,11 @@ msgstr "Impostazioni MCP"
 msgid "MCP Server or Config Manager not available"
 msgstr "Server MCP o Config Manager non disponibili"
 
+msgid "Server Controls:"
+msgstr "Controlli Del Server:"
+
 msgid "Current Server Status:"
-msgstr "Current Server Status:"
+msgstr "Status Attuale del Server:"
 
 msgid "Start"
 msgstr "Inizia"
@@ -375,4 +378,208 @@ msgstr "Nessun strumento disponibile"
 
 msgid "Trigger:"
 msgstr "Trigger:"
+
+msgid "OpenAI Settings"
+msgstr "Impostazioni OpenAI"
+
+msgid "Workflow Functions"
+msgstr "Funzioni Workflow"
+
+msgid "Enable OpenAI:"
+msgstr "Attiva OpenAI:"
+
+msgid "Direct Input"
+msgstr "Input Diretto"
+
+msgid "Environment Variable"
+msgstr "Variable di Ambiente"
+
+msgid "Environment Variable Name:"
+msgstr "Nome Variabile di Ambiente:"
+
+msgid "Organization ID (Optional):"
+msgstr "ID Organizzazione (Opzionale):"
+
+msgid "Model:"
+msgstr "Modello:"
+
+msgid "Loading models..."
+msgstr "Caricamento modelli..."
+
+msgid "No models available. Click 'Refresh Models' to load."
+msgstr "Nessun modello disponibile. Fai click su 'Ricarica Modelli' per caricare."
+
+msgid "(e.g., gpt-3.5-turbo, gpt-4)"
+msgstr "(e.g., gpt-3.5-turbo, gpt-4)"
+
+msgid "Disabled"
+msgstr "Disabilitato"
+
+msgid "Ready"
+msgstr "Pronto"
+
+msgid "Initializing"
+msgstr "Inizializzando"
+
+msgid "OpenAI Manager or Config Manager not available"
+msgstr "OpenAI Manager o Config Manager non disponibili"
+
+msgid "OpenAI Manager not available"
+msgstr "OpenAI Manager non disponibile"
+
+msgid "Refresh Workflows"
+msgstr "Ricarica Workflows"
+
+msgid "Save All"
+msgstr "Salva Tutto"
+
+msgid "Available Workflows:"
+msgstr "Workflow Disponibili:"
+
+msgid "No workflows with OpenAITriggered nodes found"
+msgstr "Nessun workflow con nodo OpenAITriggered trovato"
+
+msgid "Function Name:"
+msgstr "Nome Funzione:"
+
+msgid "Description:"
+msgstr "Descrizione:"
+
+msgid "Analyze"
+msgstr "Analizza"
+
+msgid "OpenAI is not enabled. Please configure it in Settings."
+msgstr "OpenAI non è abilitato. Configura nelle Impostazioni."
+
+msgid "Start a conversation by typing a message below."
+msgstr "Inizia una convesazione scrivendo un messaggio in basso."
+
+msgid "User"
+msgstr "Utente"
+
+msgid "Assistant"
+msgstr "Assistente"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Send"
+msgstr "Invia"
+
+msgid "Clear"
+msgstr "Cancella"
+
+msgid "Processing..."
+msgstr "Elaborazione..."
+
+msgid "New Chat"
+msgstr "Nuova Chat"
+
+msgid "Nodes"
+msgstr "Nodi"
+
+msgid "History"
+msgstr "Cronologia"
+
+msgid "Uncategorized"
+msgstr "Non Categorizzato"
+
+msgid "Delete Node"
+msgstr "Cancella Nodo"
+
+msgid "Structured"
+msgstr "Stutturato"
+
+msgid "Raw JSON"
+msgstr "JSON Puro"
+
+msgid "Settings JSON:"
+msgstr "Impostazioni JSON:"
+
+msgid "Configure plugin settings. Use the tabs below to switch between a structured view and raw JSON. Changes take effect after saving."
+msgstr "Configurazione impostazioni plugin. Passa tra la vista strutturata e il JSON grezzo usando le schede in basso. Le modifiche entreranno in vigore dopo aver salvato."
+
+msgid "Failed to parse existing settings; showing raw JSON."
+msgstr "Impossibile analizzare impostazioni esistenti; visualizzando JSON puro."
+
+msgid "Failed to parse settings schema; using raw JSON editor."
+msgstr "Impossibile analizzare lo schema delle impostazioni; utilizzando l'editor JSON puro."
+
+msgid "Failed to parse default settings JSON."
+msgstr "Impossibile analizzare il JSON delle impostazioni predefinite."
+
+msgid "Reset to Defaults"
+msgstr "Reimposta ai valori predefiniti"
+
+msgid "Failed to save plugin settings."
+msgstr "Impossibile salvare impostazioni plugin."
+
+msgid "Invalid JSON: "
+msgstr "JSON Invalido: "
+
+msgid "No valid settings schema available for structured view."
+msgstr "Nessun schema impostazioni valido disponibile per la vista strutturata."
+
+msgid "Item %d"
+msgstr "Elemento %d"
+
+msgid "Remove"
+msgstr "Rimuovi"
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid "Port must be between 1 and 65535"
+msgstr "La porta deve essere tra 1 e 65535"
+
+msgid "Invalid port number"
+msgstr "Numero porta invalido"
+
+msgid "Failed to start server: "
+msgstr "Avvio del server fallito: "
+
+msgid "Failed to restart server: "
+msgstr "Riavvio del server fallito: "
+
+msgid "Plugins Directory:"
+msgstr "Cartella Plugin:"
+
+msgid "(Where plugin modules are loaded from)"
+msgstr "(Da dove i moduli plugin vengono caricati)"
+
+msgid "Minimize on Close"
+msgstr "Minimizza alla chiusura"
+
+msgid "When clicking the window close button (X), minimize the window instead of closing"
+msgstr "Quando si chiude l'applicatione, minimizza invece di chiudere"
+
+msgid "Do Not Ask on Close Again"
+msgstr "Non chiede di nuovo"
+
+msgid "Close the application directly without confirmation when clicking the close button"
+msgstr "Chiudi l'applicatione senza chiedere conferma"
+
+msgid "Port %d is in use. Change port."
+msgstr "La porta %d è in uso. Cambia porta."
+
+msgid "Environment Settings"
+msgstr "Impostazioni Ambiente"
+
+msgid "Flow Environment"
+msgstr "Ambiente Flow"
+
+msgid "Application Environment"
+msgstr "Ambiente Applicazione"
+
+msgid "No environment available"
+msgstr "Nessun ambiente disponibile"
+
+msgid "Key"
+msgstr "Chiave"
+
+msgid "Value"
+msgstr "Valore"
+
+msgid "Add New Variable"
+msgstr "Aggiungi Nuova Variabile"
 
