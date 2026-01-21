@@ -84,7 +84,3 @@ RUNE can be extended in multiple ways, depending on how deep you need to integra
 ## Download
 
 Get RUNE Interface and RUNE CLI from [itch.io](https://blaziumengine.itch.io/rune-interface) or [blazium.games](https://bioblaze.blazium.games/rune-interface).
-
----
-
-**Built by Blazium Engine Contributors**
